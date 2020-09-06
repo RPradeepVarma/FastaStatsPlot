@@ -1,3 +1,11 @@
+'''
+AUTHOR: R.PRADEEP
+INSTITUTE: ICRISAT
+GROUP: SBDM, BIOINFORMATICS
+USAGE: python3 FastaStatsPlot.py fasta1.fa fasta2.fa fasta3.fa
+DESCRIPTION: Script parse the input fasta files and plot the stats.
+'''
+
 try:
     import svgwrite
     import sys
